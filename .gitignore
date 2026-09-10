@@ -1,0 +1,13 @@
+# Build output
+build/*
+!build/.gitkeep
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db

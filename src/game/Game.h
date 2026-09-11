@@ -7,4 +7,6 @@ public:
 
 private:
     Player player;
+    float gameTime = 0.0f;
+    void DrawHud();
 };

@@ -21,7 +21,7 @@ Requirements:
 
 - C++17 compiler
 - GNU Make
-- raylib installed and available to the linker
+- raylib installed and available to the linker ([install guide](https://github.com/raysan5/raylib#build-and-installation))
 
 On Linux:
 
@@ -35,6 +35,10 @@ Clean the local executable with:
 ```bash
 make clean
 ```
+
+## Demo
+
+Gameplay screenshots and short clips will be added here as the prototype grows.
 
 ## Controls
 
